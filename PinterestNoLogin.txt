@@ -1,0 +1,14 @@
+! Title: PinterestNoLogin
+! Dev: dmblc
+! Description: Adblock filters to browse Pinterest w/o logging in.
+! Homepage: https://github.com/kevindwitama/PinterestNoLogin
+! Last updated: October 03, 2021
+
+! How to use: https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
+
+! Credits: [u/RraaLL](https://www.reddit.com/user/RraaLL/) from [this thread](https://www.reddit.com/r/uBlockOrigin/comments/q00ysb/filter_to_make_pinterest_stop_bugging_me_to_sign/hf5asov/?context=3).
+
+pinterest.*##[data-test-id="fullPageSignupModal"],[data-test-id="giftWrap"]
+pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
+pinterest.*##body:style(overflow: auto !important)
+pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
