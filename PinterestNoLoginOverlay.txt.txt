@@ -1,7 +1,7 @@
 ! Title: PinterestNoLogin
 ! Dev: dmblc
-! Description: Adblock filters to browse Pinterest w/o logging in.
-! Homepage: https://github.com/kevindwitama/PinterestNoLogin
+! Description: Adblock filters to remove Pinterest login overlay on image hover
+! Homepage: https://github.com/kevindwitama/PinterestNoLoginOverlay
 ! Last updated: October 03, 2021
 
 ! How to use: https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
