@@ -1,4 +1,4 @@
-! Title: PinterestNoLogin
+! Title: PinterestNoLoginOverlay
 ! Dev: dmblc
 ! Description: Adblock filters to remove Pinterest login overlay on image hover
 ! Homepage: https://github.com/kevindwitama/PinterestNoLoginOverlay
